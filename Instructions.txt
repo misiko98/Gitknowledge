@@ -1,0 +1,4 @@
+Database configurations to be added
+
+1.connect.php
+2.server.php
